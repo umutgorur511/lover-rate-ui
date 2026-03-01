@@ -1,0 +1,20 @@
+# Node.js paketleri
+node_modules/
+
+# Vite build klasörü
+dist/
+
+# Çevresel değişkenler
+.env
+.env.local
+.env.*.local
+
+# IDE ve sistem dosyaları
+.vscode/
+.DS_Store
+*.log
+
+# Lock dosyaları (isteğe bağlı)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
